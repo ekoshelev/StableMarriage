@@ -1,0 +1,13 @@
+Elizabeth Koshelev
+COSI 12B, Spring 2015 
+Programming Assignment #5, 3/26/16
+A:
+O(n)
+B:
+O(n)
+C:
+O(n^2)
+D:
+O(n)
+E:
+O(n^3)
